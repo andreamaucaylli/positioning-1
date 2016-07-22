@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+div{
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+
+.magenta{
+	background-color: #ee3e64;
+}
+
+.azul{
+	background-color: #44accf;
+}
+
+.verde{
+	background-color: #b7d84b;
+}
+
